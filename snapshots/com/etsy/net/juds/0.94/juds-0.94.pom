@@ -5,4 +5,5 @@
   <groupId>com.etsy.net</groupId>
   <artifactId>juds</artifactId>
   <version>0.94</version>
+  <description>POM was created from install:install-file</description>
 </project>
